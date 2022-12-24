@@ -1,3 +1,16 @@
+### install gui
+
+```
+sudo apt update
+sudo apt upgrade
+sudo apt install tasksel
+tasksel
+sudo apt update
+sudo apt upgrade
+sudo apt install lightdm
+
+
+```
 ### install anydesk
 ```
 sudo apt update
